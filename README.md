@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaolinlau&label=Profile%20views&color=0e75b6&style=flat" alt="zhaolinlau" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau" alt="zhaolinlau" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="zhaolinlau" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zhaolin_lau" target="blank"><img src="https://img.shields.io/twitter/follow/zhaolin_lau?logo=twitter&style=for-the-badge" alt="zhaolin_lau" /></a> </p>
 
@@ -32,11 +32,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zhaolinlau"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zhaolinlau" /></a><a href="https://ko-fi.com/zhaolinlau"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zhaolinlau" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&show_icons=true&locale=en&count_private=true" alt="zhaolinlau" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&theme=onedark&show_icons=true&locale=en&count_private=true" alt="zhaolinlau" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=zhaolinlau" alt="zhaolinlau" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=zhaolinlau&theme=github" alt="zhaolinlau" /></p>
 
 <p><img align="center" src="https://metrics.lecoq.io/zhaolinlau" alt="zhaolinlau" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=default" alt="zhaolinlau" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=onedark" alt="zhaolinlau" /></p>
 
