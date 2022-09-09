@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=zhaolinlau&theme=github" alt="zhaolinlau" /></p>
 
-<p><img align="center" src="https://metrics.lecoq.io/zhaolinlau?template=classic&base.indepth=true&languages.indepth=true&languages.details=percentage" alt="zhaolinlau" /></p> 
+<p><img align="center" src="https://metrics.lecoq.io/zhaolinlau?base.indepth=true&languages.indepth=true" alt="zhaolinlau" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=onedark" alt="zhaolinlau" /></p>
 
