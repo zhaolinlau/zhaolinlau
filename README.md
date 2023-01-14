@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&theme=onedark&show_icons=true&locale=en&count_private=true" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=zhaolinlau&theme=github" alt="GitHub Activity Graph" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=zhaolinlau&theme=vue" alt="GitHub Activity Graph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=onedark" alt="GitHub streak stats" /></p>
 
