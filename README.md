@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaolinlau&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=monokai" alt="trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="trophy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zhaolin_lau" target="blank"><img src="https://img.shields.io/twitter/follow/zhaolin_lau?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
 
@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&theme=onedark&show_icons=true&locale=en&count_private=true" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=zhaolinlau&theme=vue" alt="GitHub Activity Graph" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=zhaolinlau&theme=github" alt="GitHub Activity Graph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=onedark" alt="GitHub streak stats" /></p>
 
