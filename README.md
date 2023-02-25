@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="trophy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zhaolin_lau" target="blank"><img src="https://img.shields.io/twitter/follow/zhaolin_lau?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
-
 - 🔭 I’m currently working on [Luetify](https://github.com/Luetify)
 
 - 🌱 I’m currently learning **to code and help non-profits.**
