@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to code and help non-profits.**
 
-- 👨‍💻 All of my projects are available at [https://zhaolinlau.github.io/](https://zhaolinlau.github.io/)
+- 👨‍💻 All of my projects are available at [zhaolinlau.vercel.app](https://zhaolinlau.vercel.app/)
 
 - 📫 How to reach me **zhaolinlau@outlook.com**
 
