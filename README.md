@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&count_private=true&show_icons=true&theme=onedark" alt="Anurag's GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=zhaolinlau&theme=github" alt="GitHub Activity Graph" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zhaolinlau&theme=github" alt="GitHub Activity Graph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolinlau&theme=onedark" alt="GitHub streak stats" /></p>
 
