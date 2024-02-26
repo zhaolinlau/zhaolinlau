@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zhaolinlau@outlook.com**
 
-- ⚡ Fun fact **I love coding, listening to music and watching movies.**
+- ⚡ Fun fact **I love coding, listening to music, watching anime and movies**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaolinlau&langs_count=10&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Top Langs" /></p>
 
