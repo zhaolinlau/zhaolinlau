@@ -15,15 +15,6 @@
 
 - ⚡ Fun fact **I love coding, listening to music and watching movies.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zhaolinlau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zhaolinlau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16586554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://fb.com/zhaolinlau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/zhaolin_lau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaolinlau&langs_count=10&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Top Langs" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhaolinlau&count_private=true&show_icons=true&theme=onedark" alt="Anurag's GitHub stats" /></p>
