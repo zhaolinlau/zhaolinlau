@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="trophy" /></a> </p>
 
-- 🔭 I’m currently working on [to-do-list]([https://github.com/Luetify](https://github.com/zhaolinlau/to-do-list))
+- 🔭 I’m currently working on [to-do-list](https://github.com/zhaolinlau/to-do-list)
 
 - 🌱 I’m currently learning **to code and help non-profits.**
 
