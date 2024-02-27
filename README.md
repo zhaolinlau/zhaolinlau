@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="trophy" /></a> </p>
 
-- 🔭 I’m currently working on [social-app](https://github.com/zhaolinlau/social-app) and [to-dos](https://github.com/zhaolinlau/to-dos)
+- 🔭 I’m currently working on [social-app](https://github.com/zhaolinlau/social-app) and [to-dos](https://github.com/zhaolinlau/to-dos).
 
-- 🌱 I’m currently learning **to code and help non-profits.**
+- 🌱 I’m currently learning **to code and help non-profits**.
 
-- 👨‍💻 All of my projects are available at [zhaolinlau.vercel.app](https://zhaolinlau.vercel.app/)
+- 👨‍💻 All of my projects are available at [zhaolinlau.vercel.app](https://zhaolinlau.vercel.app/).
 
-- 📫 How to reach me **zhaolinlau@outlook.com**
+- 📫 How to reach me **zhaolinlau@outlook.com**.
 
-- ⚡ Fun fact **I love coding, listening to music, watching anime and movies**
+- ⚡ Fun fact **I love coding, listening to music, watching anime and movies**.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaolinlau&langs_count=10&layout=compact&theme=onedark&size_weight=0.5&count_weight=0.5" alt="Top Langs" /></p>
 
