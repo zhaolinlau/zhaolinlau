@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zhaolinlau&theme=github" alt="GitHub Activity Graph" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zhaolinlau&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zhaolinlau&theme=onedark)](https://git.io/streak-stats)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zhaolinlau"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a><a href="https://ko-fi.com/zhaolinlau"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p>
