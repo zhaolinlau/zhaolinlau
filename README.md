@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhaolinlau&theme=onedark" alt="trophy" /></a> </p>
 
-- 🔭 I’m currently working on [UMPSA Connect](https://github.com/zhaolinlau/umpsa-connect).
+- 🔭 I’m currently building something awesome with Nuxt.js.
 
 - 🌱 I’m currently learning **to code and help non-profits**.
 
